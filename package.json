@@ -1,5 +1,5 @@
 {
-  "name": "react-native-signalr",
+  "name": "fusion-react-native-signalr",
   "version": "1.0.6",
   "description": "Connect to a SignalR server from react-native",
   "main": "index.js",
@@ -13,7 +13,6 @@
   "author": "Olof Dahlbom",
   "license": "MIT",
   "dependencies": {
-    "ms-signalr-client": "^2.1.0",
     "jquery-deferred": "^0.3.1"
   }
 }
